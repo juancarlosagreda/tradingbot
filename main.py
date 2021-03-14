@@ -13,6 +13,7 @@ access_key = ""
 access_secret = ""
 
 
+#function to extract tweets
 def get_all_tweets(screen_name):
     # Twitter only allows access to a users most recent 3240 tweets with this method
 
